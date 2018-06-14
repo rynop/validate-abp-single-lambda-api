@@ -1,3 +1,3 @@
 # validate-abp-single-lambda-api
 
-validating my instructions.  check branches for language specific validation
+validating [abp-single-lambda-api](https://github.com/rynop/abp-single-lambda-api) instructions.  Check branches for language specific validation
